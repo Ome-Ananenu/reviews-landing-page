@@ -141,20 +141,23 @@ body {
   0% {
     background-image: url("./images/image00.png");
   }
-  20% {
+  16.7% {
     background-image: url("./images/image1.png");
   }
-  40% {
-    background-image: url("/images/image2.png");
+  33.4% {
+    background-image: url("./images/image6.png");
   }
-  60% {
+  50.1% {
     background-image: url("./images/image3.png");
   }
-  80% {
+  66.8% {
     background-image: url("./images/image4.png");
   }
-  100% {
+  83.5% {
     background-image: url("./images/image5.png");
+  }
+  100% {
+    background-image: url("./images/image6.png");
   }
 }
 .section1-img {
