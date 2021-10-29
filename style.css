@@ -169,8 +169,8 @@ body {
   background-size: contain;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  -webkit-animation: fadeInOut 10s infinite;
-  animation: fadeInOut 10s infinite;
+  -webkit-animation: fadeInOut 15s infinite;
+  animation: fadeInOut 15s infinite;
   -webkit-animation-timing-function: steps(1, end);
   animation-timing-function: steps(1, end);
 }
